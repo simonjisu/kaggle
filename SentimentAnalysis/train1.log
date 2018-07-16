@@ -1,0 +1,34 @@
+/usr/local/lib/python3.6/site-packages/torchtext/data/field.py:321: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  return Variable(arr, volatile=not train), lengths
+/usr/local/lib/python3.6/site-packages/torchtext/data/field.py:322: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  return Variable(arr, volatile=not train)
+[1/30] train_loss: 4.4213, valid_loss: 3.9772, lr: 0.0100
+[2/30] train_loss: 4.2703, valid_loss: 4.2487, lr: 0.0100
+[3/30] train_loss: 4.5749, valid_loss: 4.5983, lr: 0.0100
+[4/30] train_loss: 4.5257, valid_loss: 4.1276, lr: 0.0100
+[5/30] train_loss: 4.3350, valid_loss: 3.9304, lr: 0.0100
+[6/30] train_loss: 4.2839, valid_loss: 3.9823, lr: 0.0100
+[7/30] train_loss: 4.3701, valid_loss: 4.0191, lr: 0.0100
+[8/30] train_loss: 4.3248, valid_loss: 3.8113, lr: 0.0100
+[9/30] train_loss: 4.2730, valid_loss: 3.8809, lr: 0.0100
+[10/30] train_loss: 4.2485, valid_loss: 3.9663, lr: 0.0100
+[11/30] train_loss: 3.9378, valid_loss: 3.5454, lr: 0.0010
+[12/30] train_loss: 3.7904, valid_loss: 3.5207, lr: 0.0010
+[13/30] train_loss: 3.7491, valid_loss: 3.5086, lr: 0.0010
+[14/30] train_loss: 3.7180, valid_loss: 3.5387, lr: 0.0010
+[15/30] train_loss: 3.7068, valid_loss: 3.5086, lr: 0.0010
+[16/30] train_loss: 3.6882, valid_loss: 3.5129, lr: 0.0010
+[17/30] train_loss: 3.6703, valid_loss: 3.5175, lr: 0.0010
+[18/30] train_loss: 3.6509, valid_loss: 3.5093, lr: 0.0010
+[19/30] train_loss: 3.6317, valid_loss: 3.4977, lr: 0.0010
+[20/30] train_loss: 3.6228, valid_loss: 3.5258, lr: 0.0010
+[21/30] train_loss: 3.5450, valid_loss: 3.5450, lr: 0.0001
+[22/30] train_loss: 3.5289, valid_loss: 3.5740, lr: 0.0001
+[23/30] train_loss: 3.5189, valid_loss: 3.5796, lr: 0.0001
+[24/30] train_loss: 3.5128, valid_loss: 3.5923, lr: 0.0001
+[25/30] train_loss: 3.5022, valid_loss: 3.6081, lr: 0.0001
+[26/30] train_loss: 3.4959, valid_loss: 3.6309, lr: 0.0001
+[27/30] train_loss: 3.4907, valid_loss: 3.6339, lr: 0.0001
+[28/30] train_loss: 3.4842, valid_loss: 3.6497, lr: 0.0001
+[29/30] train_loss: 3.4800, valid_loss: 3.6591, lr: 0.0001
+[30/30] train_loss: 3.4775, valid_loss: 3.6711, lr: 0.0001
